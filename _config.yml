@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: "/maxpr"
+  github: maxpr
   instagram:
   linkedin:
   pinterest:
@@ -85,6 +85,6 @@ exclude:
   - README.md
   - CNAME
   
-feed:
-  collections:
-    - reviews
+collections:
+  reviews:
+    output: true
