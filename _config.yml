@@ -85,6 +85,6 @@ exclude:
   - README.md
   - CNAME
   
- collections:
-  reviews:
-    output: true
+feed:
+  collections:
+    - reviews
