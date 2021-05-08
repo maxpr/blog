@@ -70,7 +70,7 @@ Then mix again to spread the garlic and the parsley inside the meat. Add salt an
 ![MeatMixStuffedMix]({{ site.baseurl }}/images/cheeseburger/13.jpg)
 
 Go back to the onion and salt them, it should be around 10 minutes since you started stirring them. If it becomes too dry, add a bit of water. Lower the heat to medium low.
-![Saltonions]({{ site.baseurl }}/images/potatosalad/14.jpg)
+![Saltonions]({{ site.baseurl }}/images/cheeseburgercheeseburger/14.jpg)
 
 Go back to prepare the salad and mushroom. Just get a few leaves out and cut the mushroom in 4.
 ![salad]({{ site.baseurl }}/images/cheeseburger/15.jpg)
@@ -88,7 +88,7 @@ Chop the pickles and add the sauce one by one, mix and you are ready.
 ![sauces5]({{ site.baseurl }}/images/cheeseburger/23.jpg)
 
 Go back to the onion one last time, they should look like this. Cut the fire and leave them a bit more before transferring them to a bowl.
-![caramelisedOnions]({{ site.baseurl }}/images/potatosalad/24.jpg)
+![caramelisedOnions]({{ site.baseurl }}/images/cheeseburger/24.jpg)
 
 Remove the fries from the water and put them in a strainer.
 ![strainer]({{ site.baseurl }}/images/cheeseburger/25.jpg)
