@@ -2,7 +2,7 @@
 
 layout: post
 
-title: Homemade Cheeseburge and Fries
+title: Homemade Cheeseburger and Fries
 ---
 
 

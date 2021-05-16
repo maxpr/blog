@@ -17,7 +17,7 @@ title: Lemony Fish and Soy Mushroom
 - salt and pepper
 - 1 liter of boilling water
 
-** For the sauce**
+**For the sauce**
 - Butter (80g)
 - Parsley
 
